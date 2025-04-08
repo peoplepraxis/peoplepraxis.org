@@ -7,8 +7,7 @@ layout: default
 **Helping People and Organisations Navigate Change**
 
 > Change is not just a process — it is a practice.
-
->At Peoplepraxis, I support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, I bring clarity, structure, and empathy to make change stick.
+At Peoplepraxis, I support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, I bring clarity, structure, and empathy to make change stick.
 ---
 
 ## What I Offer
@@ -26,4 +25,4 @@ layout: default
 I am currently available for **outside IR35 contracts**.
 
 📩 [nina@peoplepraxis.org](mailto:nina@peoplepraxis.org)  
-💼 [LinkedIn](https://www.linkedin.com/in/nina-fritsch)
+💼 [LinkedIn](https://www.linkedin.com/in/ninafritsch)
