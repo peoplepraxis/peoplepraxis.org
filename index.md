@@ -8,7 +8,7 @@ layout: default
 
 > Change is not just a process — it is a practice.
 
-At Peoplepraxis, I support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, I bring clarity, structure, and empathy to make change stick.
+>At Peoplepraxis, I support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, I bring clarity, structure, and empathy to make change stick.
 ---
 
 ## What I Offer
