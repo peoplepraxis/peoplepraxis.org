@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
 # 👋 Welcome to Peoplepraxis
 
 **Helping People and Organisations Navigate Change**
