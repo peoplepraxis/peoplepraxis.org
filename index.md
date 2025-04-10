@@ -16,7 +16,7 @@ At Peoplepraxis, I support individuals and organisations through their change jo
 
 - Organisational Change & Transformation  
 - Process Improvement (Lean Six Sigma Black Belt)  
-- Change Management (Prosci ChangePractitioner)  
+- Change Management (Prosci Change Practitioner)  
 - Strategic Communications & Stakeholder Engagement  
 - Coaching and Training for Teams and Change Leaders  
 
@@ -24,7 +24,7 @@ At Peoplepraxis, I support individuals and organisations through their change jo
 
 ## Work with Me
 
-I am currently available for **outside IR35 contracts**.
+Let's have a conversation.
 
 📩 [nina@peoplepraxis.org](mailto:nina@peoplepraxis.org)  
 💼 [LinkedIn](https://www.linkedin.com/in/ninafritsch)
