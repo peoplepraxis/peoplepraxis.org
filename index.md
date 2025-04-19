@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 400px;">
+  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 500px;">
 </p>
 
 ---
