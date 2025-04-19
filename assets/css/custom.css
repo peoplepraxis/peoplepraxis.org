@@ -1,10 +1,16 @@
+/* Resize the logo */
 .site-logo img {
   max-height: 300px;
 }
-/* Hide site title text next to the logo */
-.site-title {
-  display: none;
+
+/* Hide the site title text next to the logo */
+.site-title,
+.site-title a,
+.site-title span {
+  display: none !important;
 }
+
+/* Responsive size adjustment for smaller screens */
 @media (max-width: 600px) {
   .site-logo img {
     max-height: 100px;
