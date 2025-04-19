@@ -1,3 +1,7 @@
 .site-logo img {
   max-height: 150px;
 }
+/* Hide site title text next to the logo */
+.site-title {
+  display: none;
+}
