@@ -23,3 +23,5 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Navigation
 header_pages:
   - index.md
+
+# Trigger rebuild
