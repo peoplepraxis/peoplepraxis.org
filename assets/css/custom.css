@@ -1,6 +1,6 @@
 /* Resize the logo */
 .site-logo img {
-  max-height: 300px;
+  max-height: 120px;
 }
 
 /* Hide the site title text next to the logo */
