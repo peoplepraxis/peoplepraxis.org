@@ -8,7 +8,7 @@ defaults:
     scope:
       path: ""
     values:
-      custom_css: assets/css/custom.css
+      custom_css: /assets/css/custom.css
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
