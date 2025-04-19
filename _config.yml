@@ -15,3 +15,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Navigation
 header_pages:
   - index.md
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      custom_css: assets/css/custom.css
