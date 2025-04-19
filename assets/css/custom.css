@@ -1,18 +1,23 @@
-/* Resize the logo */
 .site-logo img {
   max-height: 120px;
 }
 
-/* Hide the site title text next to the logo */
 .site-title,
 .site-title a,
 .site-title span {
   display: none !important;
 }
 
-/* Responsive size adjustment for smaller screens */
+.nav__logo,
+.nav__inner,
+.site-logo {
+  max-height: none !important;
+  min-height: unset !important;
+  height: auto !important;
+}
+
 @media (max-width: 600px) {
   .site-logo img {
-    max-height: 100px;
+    max-height: 80px;
   }
 }
