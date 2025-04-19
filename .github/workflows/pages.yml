@@ -1,19 +1,19 @@
-name: Deploy Minimal Mistakes with GitHub Pages
+name: Build and Deploy Jekyll site with Minimal Mistakes
 
 on:
   push:
     branches:
-      - mm-theme  # Set this to your branch name
+      - theme-test
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  github-pages:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Ruby
@@ -27,7 +27,7 @@ jobs:
           bundle config set --local path 'vendor/bundle'
           bundle install
 
-      - name: Build site with Jekyll
+      - name: Build the site
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
