@@ -5,3 +5,8 @@
 .site-title {
   display: none;
 }
+@media (max-width: 600px) {
+  .site-logo img {
+    max-height: 100px;
+  }
+}
