@@ -1,10 +1,18 @@
 title: Peoplepraxis
 description: Helping People and Organisations Navigate Change
-url: "" # Set your domain name here if custom
+url: # Set your domain name here if custom
 logo: "/assets/img/1.png"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      custom_css: assets/css/custom.css
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
+
 plugins:
   - jekyll-include-cache
 
@@ -15,10 +23,3 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Navigation
 header_pages:
   - index.md
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      custom_css: assets/css/custom.css
