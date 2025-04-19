@@ -1,30 +1,37 @@
 ---
-layout: default
+layout: home
+title: "Welcome to Peoplepraxis"
 ---
 
 <p align="center">
-  <img src="/img/1.png" alt="Peoplepraxis logo" style="max-width: 300px;" />
-</p>
-
-<p align="center" style="font-size: 1.1rem; color: #666;">
-  Change is not just a process – it is a practice.
+  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 500px;">
 </p>
 
 ---
 
-## What I Offer
+# 👋 Welcome to Peoplepraxis
+
+**Helping People and Organisations Navigate Change**
+
+> Change is not just a process — it is a practice.
+
+At Peoplepraxis, we support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, we bring clarity, structure, and empathy to make change stick.
+
+---
+
+## What we Offer
 
 - Organisational Change & Transformation  
 - Process Improvement (Lean Six Sigma Black Belt)  
-- Change Management (Prosci Practitioner)  
+- Change Management (Prosci Change Practitioner)  
 - Strategic Communications & Stakeholder Engagement  
-- Coaching and Training for Change Leaders  
+- Coaching and Training for Teams and Change Leaders  
 
 ---
 
-## Work with Me
+## Work with Us
 
-I am currently available for **outside IR35 contracts**.
+Let's have a conversation.
 
 📩 [nina@peoplepraxis.org](mailto:nina@peoplepraxis.org)  
-💼 [Connect on LinkedIn 💼](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+💼 [LinkedIn](https://www.linkedin.com/in/ninafritsch)

@@ -1,3 +1,17 @@
-theme: jekyll-theme-architect
-title: ""
-description: ""
+title: Peoplepraxis
+description: Helping People and Organisations Navigate Change
+url: "" # Set your domain name here if custom
+logo: "/assets/img/1.png"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Navigation
+header_pages:
+  - index.md
