@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 300px;">
+  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 500px;">
 </p>
 
 ---
@@ -14,11 +14,11 @@ layout: default
 
 > Change is not just a process — it is a practice.
 
-At Peoplepraxis, I support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, I bring clarity, structure, and empathy to make change stick.
+At Peoplepraxis, we support individuals and organisations through their change journey. Whether you are implementing new systems, transforming culture, or streamlining processes, we bring clarity, structure, and empathy to make change stick.
 
 ---
 
-## What I Offer
+## What we Offer
 
 - Organisational Change & Transformation  
 - Process Improvement (Lean Six Sigma Black Belt)  
@@ -28,7 +28,7 @@ At Peoplepraxis, I support individuals and organisations through their change jo
 
 ---
 
-## Work with Me
+## Work with Us
 
 Let's have a conversation.
 
