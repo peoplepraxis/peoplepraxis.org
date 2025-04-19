@@ -6,11 +6,6 @@ layout: default
   <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 300px;">
 </p>
 
-<!-- Optional subtitle -->
-<p align="center" style="font-size: 1.1rem; color: #666;">
-  Change is not just a process – it is a practice.
-</p>
-
 ---
 
 # 👋 Welcome to Peoplepraxis
