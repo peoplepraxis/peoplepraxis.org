@@ -3,14 +3,6 @@ layout: home
 title: "Welcome to Peoplepraxis"
 ---
 
-<p align="center">
-  <img src="/assets/img/1.png" alt="Peoplepraxis logo" style="max-width: 500px;">
-</p>
-
----
-
-# 👋 Welcome to Peoplepraxis
-
 **Helping People and Organisations Navigate Change**
 
 > Change is not just a process — it is a practice.
